@@ -49,9 +49,15 @@ Figure 8.2 Multiplication in dot notation
 ## Procedure
 
 :point_right: **Task 1:** Design the unsigned 32x32 array multiplier similar to what is shown in Figure 8.1. Measure the critical path delay using timing analysis tools.  
-:point_right: **Task 2:** Use pipelining technique to double the performance.
-:point_right: **Task 3:** Use pipelining technique to triple the performance.
-:point_right: **Task 4:** Use pipelining technique to maximize performance.
-:point_right: **Task 5:** Simulate your design for each case.
-:point_right: **Task 6:** Use timing analysis tools to prove the application of each method for each case of the pipelining.
-:point_right: **Task 7:** Study the performance are trade-offs.
+
+:point_right: **Task 2:** Use pipelining technique to double the performance.  
+
+:point_right: **Task 3:** Use pipelining technique to triple the performance.  
+
+:point_right: **Task 4:** Use pipelining technique to maximize performance.  
+
+:point_right: **Task 5:** Simulate your design for each case.  
+
+:point_right: **Task 6:** Use timing analysis tools to prove the application of each method for each case of the pipelining.  
+
+:point_right: **Task 7:** Study the performance are trade-offs.  
